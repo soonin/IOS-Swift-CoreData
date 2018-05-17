@@ -13,6 +13,7 @@
 		FA4828D120AA2AE300DFA578 /* IOS_Swift_CoreData.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = FA4828CF20AA2AE300DFA578 /* IOS_Swift_CoreData.xcdatamodeld */; };
 		FA4828D320AA2AE600DFA578 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA4828D220AA2AE600DFA578 /* Assets.xcassets */; };
 		FA4828D620AA2AE600DFA578 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA4828D420AA2AE600DFA578 /* LaunchScreen.storyboard */; };
+		FA4828DE20AA2D6200DFA578 /* CityViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4828DD20AA2D6200DFA578 /* CityViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		FA4828D220AA2AE600DFA578 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FA4828D520AA2AE600DFA578 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FA4828D720AA2AE600DFA578 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA4828DD20AA2D6200DFA578 /* CityViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CityViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				FA4828C820AA2AE300DFA578 /* AppDelegate.swift */,
 				FA4828CA20AA2AE300DFA578 /* ViewController.swift */,
+				FA4828DD20AA2D6200DFA578 /* CityViewController.swift */,
 				FA4828CC20AA2AE300DFA578 /* Main.storyboard */,
 				FA4828D220AA2AE600DFA578 /* Assets.xcassets */,
 				FA4828D420AA2AE600DFA578 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				FA4828CB20AA2AE300DFA578 /* ViewController.swift in Sources */,
 				FA4828D120AA2AE300DFA578 /* IOS_Swift_CoreData.xcdatamodeld in Sources */,
 				FA4828C920AA2AE300DFA578 /* AppDelegate.swift in Sources */,
+				FA4828DE20AA2D6200DFA578 /* CityViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
